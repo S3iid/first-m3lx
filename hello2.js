@@ -2,4 +2,4 @@ function subtract (a,b){
 
     console.log(a-b);
 }
-subtract(2,4)
+subtract(6,5)
